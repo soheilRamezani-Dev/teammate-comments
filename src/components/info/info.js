@@ -1,4 +1,3 @@
-import './info.css'
 
 const Info = () => {
     return <section className="info">
