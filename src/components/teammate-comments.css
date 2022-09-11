@@ -1,0 +1,9 @@
+.comments{
+    width: 400px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.204);
+    margin-top: 150px;
+}
