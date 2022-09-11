@@ -1,8 +1,8 @@
 
-const Info = () => {
+const Info = ({name,position}) => {
     return <section className="info">
-        <div className="name justify-content-center d-flex p-1">soheil</div>
-        <div className="position justify-content-center d-flex p-1 text-danger">CEO</div>
+        <div className="name justify-content-center d-flex p-1">{name}</div>
+        <div className="position justify-content-center d-flex p-1 text-danger">{position}</div>
     </section>
 }
  
